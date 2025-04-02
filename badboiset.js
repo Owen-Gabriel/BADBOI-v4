@@ -11,35 +11,35 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2348140xxxxxx"
-global.ownername = "🤴𝓚𝓘𝓝𝓖 ℬ𝓐𝓓ℬ𝓞𝓘"
-global.ytname = "YT: BADBOI"
-global.socialm = "GitHub: BADBOI-v1"
-global.location = "Nigeria, Ogun-state, ilese"
+global.ownernomer = "2347067161378"
+global.ownername = "OG Tech"
+global.ytname = "YT: Owen Gabriel"
+global.socialm = "GitHub: Owen-Gabriel"
+global.location = "Nigeria, Ogun-state"
 
-global.ownernumber = '2348140xxxxxx'  //creator number
-global.ownername = '🤴𝓚𝓘𝓝𝓖 ℬ𝓐𝓓ℬ𝓞𝓘' //owner name
-global.botname = 'ℬ𝓐𝓓ℬ𝓞𝓘-V4ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '2347067161378'  //creator number
+global.ownername = 'Owen Gabriel' //owner name
+global.botname = 'ℬ𝓐𝓓 4' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'BADBOI\n\nContact: +2348140825959'
+global.author = 'BADBOI\n\nContact: +2347067161378'
 
 //console view/theme
 global.themeemoji = '☠️'
 global.wm = "BADBOI Bot Inc."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x'
+global.link = 'https://whatsapp.com/channel/0029VaAL2diG8l59tmqpm81g'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
-global.autorecordtype = false //auto typing + recording
-global.autoread = false //auto read messages
+global.autoRecording = true //auto recording
+global.autoTyping = true //auto typing
+global.autorecordtype = true //auto typing + recording
+global.autoread = true //auto read messages
 global.autobio = true //auto update bio
 global.anti92 = true //auto block +92 
 global.autoswview = true //auto view status/story
